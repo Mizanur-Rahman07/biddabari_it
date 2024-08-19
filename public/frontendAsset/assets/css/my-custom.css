@@ -1,0 +1,123 @@
+
+.mcq-xm th {font-size: 24px}
+.mcq-xm td {font-size: 22px}
+.written-xm th {font-size: 24px}
+.written-xm td {font-size: 22px}
+
+
+
+
+ .pdf-toolbar {display: none;}
+#pdf-container {overflow: scroll; height: 500px;}
+.aks-video-player { width: 99%!important;}
+
+
+
+ .my-box { width: 100%!important;}
+.canvas-container, canvas {
+    width: 100%!important;
+    margin-top: 10px!important;
+    height:auto;
+
+    /* .my-box { width: 100%!important;} */
+    /*.canvas-container, canvas { */
+    /* width: 100%!important; */
+    /*     margin-top: 10px!important;}*/
+    /*    @media screen and (max-width: 768px){*/
+    /*    #pdfContentPrintDiv {overflow: scroll;}*/
+    /*}*/
+
+
+}
+/*.canvas{*/
+/*     overflow:scroll !important;*/
+/*}*/
+
+.video-container{
+    width:100%!important;
+    height: 440px;
+    overflow:hidden;
+    position:relative;
+
+
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    /*height: 0;*/
+}
+.video-container iframe{
+    position: absolute;
+    top: -60px;
+    left: 0;
+    width: 100%;
+    /*height: calc(80% + 100px);*/
+    height: 500px!important;
+}
+.video-foreground{
+    pointer-events:auto;
+}
+#watchOnYoutubeWaterMark {
+    height: 47px;
+    width: 173px;
+    background-color: transparent;
+    position: absolute;
+    bottom: 8%;
+    left: 0;
+}
+#rightSideYoutubeWaterMark {
+    height: 36px;
+    width: 67px;
+    background-color: transparent;
+    position: absolute;
+    right: 6%;
+    bottom: 7%;
+}
+     /*review section*/
+ .no-pad p {
+     margin-bottom: 2px!important;
+ }
+.comment-user-image {
+    border-radius: 60%;
+    width: 40px;
+    height: 40px;
+}
+.com-img-box {
+    /*height: 78px;*/
+    width: 56px;
+}
+.main-comment p {
+    margin-bottom: 2px!important;
+}
+.sub-replay p {
+    margin-bottom: 2px !important;
+}
+.bb-1px {
+    border-bottom: 1px solid black;
+}
+
+.ytp-impression-link {
+    display: none !important;
+}
+
+
+.student-master-type-hover a {
+    cursor: pointer;
+}
+.dashboard_stats_wrap{cursor: pointer}
+.pagination>li>button, .pagination>li>button, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 0;
+    margin: 5px;
+    color: #5a6f7c;
+    text-decoration: none;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid #eaeff5;
+}
+.page-item { cursor: pointer }
+.
+
